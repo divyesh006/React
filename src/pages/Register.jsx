@@ -16,7 +16,7 @@ function Register(){
         <TextField id="Outlined secondary" label="Email Address" variant="outlined" color="secondary"/>
         <h4>Login Information</h4>
         <TextField id="oOutlined secondary" label="Password" variant="outlined" color="secondary"/>
-        <TextField id="Outlined secondary" label="Confirm Password" variant="outlined" color="secondary" />
+        <TextField id="Outlined secondary" label="Confirm Password" variant="outlined" color="secondary"/>
         <br/><br/>
         <Button variant="contained">Register</Button>
         <br/><br/>
