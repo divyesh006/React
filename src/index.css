@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.link{
+  color: rgb(219, 76, 117);
+  font-size: medium;
+}
+.MuiButtonBase-root.MuiButton-root{
+  background-color: #f14d54;
+  font: 14px;
+}
