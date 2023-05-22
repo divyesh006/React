@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "password": "password123"
+    },
+    {
+      "firstName": "bhavya",
+      "lastName": "patel",
+      "email": "bhavya@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": 7
+    },
+    {
+      "firstName": "divyesh",
+      "lastName": "patel",
+      "email": "divyesh@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 11
+    }
+  ]
+}

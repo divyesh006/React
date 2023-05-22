@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Register from './pages/Register';
 import ProductList from './pages/ProductList';
 import Login from './pages/Login';
-import Header from './components/Header';
+//import Header from './components/Header';
+
 
 function App() {
   return (
