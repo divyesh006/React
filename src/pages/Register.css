@@ -1,0 +1,89 @@
+.register-container {
+    display:inherit;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ceaeae;
+    border-radius: 5px;
+    background-color: rgba(252, 252, 252, 0.9);
+    box-shadow: 0 0 10px rgba(1, 1, 1, 0.776);
+    backdrop-filter: blur(15px);
+}
+  
+  .register-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .register-container label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .register-container input[type="text"],
+  .register-container input[type="email"],
+  .register-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    
+  }
+  
+  .register-container button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 20px auto;
+  }
+  
+  .register-container button[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  .register-container div {
+    margin-bottom: 15px;
+  }
+  
+  .name-container {
+    padding: auto;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  .password-container {
+    display: flex;
+    padding: auto;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    margin: 20px;
+    margin-top: 2rem;
+  }
+  .email-container{
+    width: 100%;
+    padding: auto;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin: 20px;
+  }
+  .login-button{
+    width: 150px;
+    margin-left: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  .zmdi zmdi-account{
+    margin : 50px;
+  }
